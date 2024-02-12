@@ -21,7 +21,7 @@ import { onMounted,ref } from 'vue';
 const allWonders = ref([]);
 
 onMounted(() => {
-    axios.get(`https://json-server-vue3-d109.onrender.com/wonders`)
+    axios.get(`https://one-championship-server.onrender.com/ONE-Championship`)
         .then((response) => {
             // console.log(response.data)
             allWonders.value = response.data

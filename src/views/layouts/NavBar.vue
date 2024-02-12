@@ -53,12 +53,11 @@ const logOut = async () => {
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
                             aria-expanded="false">
-                            <i class="bi bi-bank2 me-1"></i>ซื้อบัตร
+                            <i class="bi bi-bank2 me-1"></i>one-championship
                         </a>
                         <ul class="dropdown-menu">
 
-                            <li>
-                            </li>
+                            <li><a class="dropdown-item" href="https://www.onefc.com/th/tickets/" target="_blank">ซื้อบัตร</a></li>
                             <li>
                                 <hr class="dropdown-divider">
                             </li>
