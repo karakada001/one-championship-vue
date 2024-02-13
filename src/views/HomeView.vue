@@ -15,13 +15,13 @@ toast.info("we", {
 <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="https://cdn.onefc.com/wp-content/uploads/sites/5/2023/11/231222-BKK-OFF46-1800x1200px.jpg" class="d-block w-100" height="200px" alt="...">
+      <img src="https://cdn.onefc.com/wp-content/uploads/sites/5/2023/11/231222-BKK-OFF46-1800x1200px.jpg" class="d-block w-100" height="150px" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://cdn.onefc.com/wp-content/uploads/sites/5/2022/02/221118-OPV4-1800x1200px-1.jpg" class="d-block w-100" height="200px" alt="...">
+      <img src="https://cdn.onefc.com/wp-content/uploads/sites/5/2022/02/221118-OPV4-1800x1200px-1.jpg" class="d-block w-100" height="150px" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="https://cdn.onefc.com/wp-content/uploads/sites/5/2021/06/220326-web-1800x1200px.jpeg" class="d-block w-100" height="200px" alt="...">
+      <img src="https://cdn.onefc.com/wp-content/uploads/sites/5/2021/06/220326-web-1800x1200px.jpeg" class="d-block w-100" height="150px" alt="...">
     </div>
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
