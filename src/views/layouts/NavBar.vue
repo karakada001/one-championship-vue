@@ -10,7 +10,7 @@ const logOut = async () => {
 </script>
 
 <template>
-    <nav class="navbar navbar-expand-lg navbar-dark shadow" style="background: #17010f;">
+    <nav class="navbar navbar-expand-lg navbar-dark shadow" style="background: #000;">
         <div class="container">
             <RouterLink :to="{ name: 'home' }" class="navbar-brand">ONE Championship</RouterLink>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
